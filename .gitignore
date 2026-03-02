@@ -1,0 +1,6 @@
+# Build artifacts / binaries
+*.zip
+*.png
+
+# Optional OS noise
+.DS_Store
